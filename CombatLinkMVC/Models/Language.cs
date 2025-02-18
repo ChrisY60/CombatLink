@@ -1,0 +1,31 @@
+﻿namespace CombatLinkMVC.Models
+{
+    enum Language
+    {
+        Bulgarian,
+        English,
+        Dutch,
+        French,
+        Spanish,
+        German,
+        Italian,
+        Portuguese,
+        Russian,
+        Chinese,
+        Japanese,
+        Korean,
+        Arabic,
+        Hindi,
+        Turkish,
+        Greek,
+        Polish,
+        Swedish,
+        Danish,
+        Norwegian,
+        Finnish,
+        Czech,
+        Hungarian,
+        Romanian,
+        Thai
+    }
+}
